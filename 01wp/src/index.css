@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'iconfont';
+    src:url("../../iconfont/iconfont.ttf") format('truetype')
+}
+body{
+    color:rgb(240, 38, 38);
+}
+.block-bg{
+    background-image: url(../../image/2.jpeg) !important;
+}
+.icon{
+    font-family: 'iconfont';
+    font-size: 30px;
+}
